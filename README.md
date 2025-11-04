@@ -1,6 +1,6 @@
 # first_project
 
-First project. Homework 1
+First project. Homeworks.
 
 ## Getting Started
 
