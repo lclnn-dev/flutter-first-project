@@ -162,7 +162,7 @@ void calculate() {
   }
 
   while (true) {
-    stdout.write('Вкажіть перше число (або "exit" для виходу): ');
+    stdout.write('Введіть перше число (або "exit" для виходу): ');
     String? input1 = stdin.readLineSync();
 
     if (input1 == null || input1.toLowerCase() == 'exit') {
