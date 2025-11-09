@@ -4,7 +4,7 @@ import 'task3/duck.dart';
 import 'task3/fish.dart';
 import 'task4/basketball.dart';
 import 'task4/soccer.dart';
-import 'task4/sportsClub.dart';
+import 'task4/sports_club.dart';
 import 'task5/coordinate.dart';
 import 'task5/coordinate2.dart';
 
