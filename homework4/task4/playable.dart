@@ -1,3 +1,3 @@
 abstract class Playable {
-  void play() {}
+  void play();
 }
